@@ -1,0 +1,61 @@
+$ python3 Q4/complete_code.py
+clash      : ['192311004', '192311009']
+exactly one: ['192311001', '192311002', '192311007', '192311010']
+neither    : ['192311003', '192311005', '192311006', '192311008']
+
+$ python3 Q4/electives.py
+Operator/method equality, hand case, duplicates, empty and identical sets PASS
+{
+  "membership": [
+    {
+      "n": 10000,
+      "probes": 20,
+      "list_seconds": 0.0007809589951648377,
+      "set_seconds": 9.590003173798323e-07,
+      "set_shallow_bytes": 524504
+    },
+    {
+      "n": 100000,
+      "probes": 20,
+      "list_seconds": 0.007860749996325467,
+      "set_seconds": 1.0000003385357559e-06,
+      "set_shallow_bytes": 4194520
+    },
+    {
+      "n": 1000000,
+      "probes": 20,
+      "list_seconds": 0.07923354100057622,
+      "set_seconds": 4.540997906588018e-06,
+      "set_shallow_bytes": 33554648
+    }
+  ],
+  "intersection": [
+    {
+      "n": 100,
+      "m": 100,
+      "nested_seconds": 0.00010170799941988662,
+      "set_seconds": 8.834002073854208e-06,
+      "sort_walk_seconds": 1.0749994544312358e-05,
+      "comparisons": 10000,
+      "common": 50
+    },
+    {
+      "n": 1000,
+      "m": 1000,
+      "nested_seconds": 0.009723415998450946,
+      "set_seconds": 2.1083003957755864e-05,
+      "sort_walk_seconds": 4.374999844003469e-05,
+      "comparisons": 1000000,
+      "common": 500
+    },
+    {
+      "n": 3000,
+      "m": 3000,
+      "nested_seconds": 0.090588499995647,
+      "set_seconds": 5.158299609320238e-05,
+      "sort_walk_seconds": 0.00014612499944632873,
+      "comparisons": 9000000,
+      "common": 1500
+    }
+  ]
+}
