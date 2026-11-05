@@ -1,0 +1,49 @@
+{
+  "python": "3.15.2 (v3.15.2:5e58eaad7c5, Oct 25 2026, 14:19:34) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "results": [
+    {
+      "program": "Q1/rainfall.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q2/complete_code.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q2/copying.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q3/complete_code.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q3/complaints.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q4/complete_code.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q4/electives.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q5/sensors.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q6/timetable.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q7/contacts.py",
+      "exit_code": 0
+    },
+    {
+      "program": "Q7/large_comparison.py",
+      "exit_code": 0
+    }
+  ]
+}
