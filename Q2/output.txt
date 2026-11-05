@@ -1,0 +1,49 @@
+$ python3 Q2/complete_code.py
+bad : [[0, 7, 0, 0], [0, 7, 0, 0], [0, 7, 0, 0]]
+good: [[0, 7, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+True False
+T. Nagar
+
+$ python3 Q2/copying.py
+bad row ids: [4336657472, 4336657472, 4336657472]
+good row ids: [4349320640, 4338745536, 4349246848]
+After nested edit: original= [[1, 7], [2]] alias= [[1, 7], [2]] slice= [[1, 7], [2]] shallow= [[1, 7], [2]] deep= [[1], [2]]
+Central 13.0827 80.2707
+T. Nagar 13.0418 80.2341
+List key rejected: cannot use 'list' as a dict key (unhashable type: 'list')
+Tuple containing a list is also unhashable
+{
+  "n": 1000000,
+  "list_shallow_bytes": 8000056,
+  "tuple_shallow_bytes": 8000048,
+  "list_creation_runs": [
+    0.005780250001407694,
+    0.009345624996058177,
+    0.010076708000269718
+  ],
+  "tuple_creation_runs": [
+    0.006796083005610853,
+    0.010441917002026457,
+    0.010582709001027979
+  ],
+  "indexing": {
+    "list": {
+      "runs_seconds": [
+        0.0010253750006086193,
+        0.00022441700275521725,
+        0.00021500000002561137
+      ],
+      "mean_seconds": 0.000488264001129816,
+      "checksum": 4944759458
+    },
+    "tuple": {
+      "runs_seconds": [
+        0.0010349169970140792,
+        0.000218625005800277,
+        0.00021270800061756745
+      ],
+      "mean_seconds": 0.0004887500011439746,
+      "checksum": 4944759458
+    }
+  }
+}
