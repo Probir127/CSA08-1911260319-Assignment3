@@ -1,0 +1,29 @@
+[
+  {
+    "n": 365,
+    "windows": 359,
+    "naive_additions": 2513,
+    "running_additions": 365,
+    "running_subtractions": 358,
+    "naive_seconds": 4.1667000914458185e-05,
+    "running_seconds": 1.8250000721309334e-05
+  },
+  {
+    "n": 36500,
+    "windows": 36494,
+    "naive_additions": 255458,
+    "running_additions": 36500,
+    "running_subtractions": 36493,
+    "naive_seconds": 0.004201542004011571,
+    "running_seconds": 0.0015233750018524006
+  },
+  {
+    "n": 365000,
+    "windows": 364994,
+    "naive_additions": 2554958,
+    "running_additions": 365000,
+    "running_subtractions": 364993,
+    "naive_seconds": 0.04249845800222829,
+    "running_seconds": 0.016221457997744437
+  }
+]
