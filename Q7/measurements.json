@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1000,
+    "groups": 200,
+    "dictionary_seconds": 0.0024422089991276152,
+    "phone_occurrences": 1000,
+    "required_pair_comparisons": 499500,
+    "pairwise_seconds": 0.030364124999323394
+  },
+  {
+    "n": 100000,
+    "groups": 20000,
+    "dictionary_seconds": 0.4033412499993574,
+    "phone_occurrences": 100000,
+    "required_pair_comparisons": 4999950000
+  }
+]

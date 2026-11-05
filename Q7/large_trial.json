@@ -1,0 +1,10 @@
+{
+  "status": "TIMEOUT_3_SECONDS",
+  "parent_elapsed_seconds": 3.0037837920026504,
+  "progress_checkpoint": {
+    "completed_pair_comparisons": 30800000,
+    "worker_elapsed_seconds": 2.9344964580013766
+  },
+  "required_pairs": 4999950000,
+  "note": "No full-run completion time is claimed."
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dr. Ravi",
+    "numbers": [
+      "+91 98400 12345"
+    ],
+    "emails": [
+      "RAVI@example.test"
+    ]
+  },
+  {
+    "name": "ravi kumar",
+    "numbers": [
+      "9840012345",
+      "9876543210"
+    ],
+    "emails": [
+      "ravi.work@example.test"
+    ]
+  },
+  {
+    "name": "R. Kumar",
+    "numbers": [
+      "0091 9876543210"
+    ],
+    "emails": []
+  },
+  {
+    "name": "ravi kumar",
+    "numbers": [
+      "9123456789"
+    ],
+    "emails": []
+  },
+  {
+    "name": "No Phone",
+    "emails": [
+      "solo@example.test"
+    ]
+  },
+  {
+    "name": "",
+    "numbers": [
+      "invalid"
+    ]
+  }
+]
