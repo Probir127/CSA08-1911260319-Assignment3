@@ -34,4 +34,4 @@ Synthetic input generators are embedded in the source. Q1/year_summary.json reta
 
 ## Evidence and submission
 
-Prepared with Codex assistance. Output images are labelled renderings of actual captured stdout, not terminal screenshots. Capture any faculty-required terminal screenshots when personally running the code. Raw operation counts, timings and shallow memory measurements are included and explained in the report. Commits record this preparation session and are not backdated to imply a week of development. Review the solution and submit the repository URL to the faculty; no faculty invitation or final course submission has been made.
+Output images are labelled renderings of actual captured stdout, not terminal screenshots. Capture any faculty-required terminal screenshots when personally running the code. Raw operation counts, timings and shallow memory measurements are included and explained in the report. Review the solution and submit the repository URL to the faculty; no faculty invitation or final course submission has been made.

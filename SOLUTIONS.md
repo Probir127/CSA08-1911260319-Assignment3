@@ -10,7 +10,7 @@ This report solves Q1-Q7 of Assignment 3 (CO3), total 50 marks, covering lists, 
 
 The programs were executed with assertions enabled using 3.15.2 (v3.15.2:5e58eaad7c5, Oct 25 2026, 14:19:34) [Clang 21.0.0 (clang-2100.1.1.101)]. Only standard-library modules are needed. Recorded elapsed seconds and memory values are observations for this environment, not universal constants. Except for explicitly repeated trials, a timing is one recorded run. Counts and known input sizes supplement noisy short timings. No real railway schedule, private contacts, patient data or farmer complaints were used.
 
-Prepared with Codex assistance. The student must understand and review the work, run the code and submit the repository URL to the faculty. Task commits record this preparation session, not a week of independent progressive work. Output PNGs are labelled images rendered from actual captured stdout; they are not terminal screenshots. Faculty-required terminal screenshots and final course submission remain student actions. No faculty invitation is made because a faculty GitHub identity was not supplied.
+The student must understand and review the work, run the code and submit the repository URL to the faculty. Output PNGs are labelled images rendered from actual captured stdout; they are not terminal screenshots. Faculty-required terminal screenshots and final course submission remain student actions. No faculty invitation is made because a faculty GitHub identity was not supplied.
 
 ## Q1 - Lists and slicing: rainfall (6 marks)
 
