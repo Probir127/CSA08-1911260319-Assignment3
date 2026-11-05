@@ -1,0 +1,38 @@
+[
+  {
+    "complaints": 1000,
+    "words": 3750,
+    "distinct": 11,
+    "seconds": {
+      "dict_get": 8.929199975682423e-05,
+      "dict_setdefault": 0.00012137500016251579,
+      "list_count": 0.00018412499775877222,
+      "Counter": 5.620800220640376e-05
+    },
+    "list_count_comparisons_model": 41250
+  },
+  {
+    "complaints": 10000,
+    "words": 37500,
+    "distinct": 11,
+    "seconds": {
+      "dict_get": 0.0010303329981979914,
+      "dict_setdefault": 0.0014121249987510964,
+      "list_count": 0.0018230830028187484,
+      "Counter": 0.0006666670014965348
+    },
+    "list_count_comparisons_model": 412500
+  },
+  {
+    "complaints": 100000,
+    "words": 375000,
+    "distinct": 11,
+    "seconds": {
+      "dict_get": 0.009848624998994637,
+      "dict_setdefault": 0.013775624996924307,
+      "list_count": 0.01857262499834178,
+      "Counter": 0.006997666001552716
+    },
+    "list_count_comparisons_model": 4125000
+  }
+]
