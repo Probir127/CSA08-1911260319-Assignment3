@@ -1,0 +1,42 @@
+$ python3 Q6/timetable.py
+Fictional timetable: Central on Monday
+T104   Valley Link         07:00  07:05
+T102   City Connector      08:30  08:35
+T101   Village Link        09:00  09:05
+Third stop departure: 10:05
+Unknown station and non-running-day checks PASS
+[
+  {
+    "trains": 100,
+    "total_stops": 1000,
+    "station_candidates": 10,
+    "queries": 20,
+    "index_build_seconds": 8.108300244202837e-05,
+    "scan_seconds": 1.2952100223628805e-05,
+    "indexed_seconds": 1.1333497241139412e-06,
+    "flat_seconds": 1.826250008889474e-05,
+    "index_container_bytes": 93728
+  },
+  {
+    "trains": 1000,
+    "total_stops": 10000,
+    "station_candidates": 100,
+    "queries": 20,
+    "index_build_seconds": 0.0005615420013782568,
+    "scan_seconds": 0.000133768749947194,
+    "indexed_seconds": 1.4412499876925721e-05,
+    "flat_seconds": 0.0001957833497726824,
+    "index_container_bytes": 815328
+  },
+  {
+    "trains": 10000,
+    "total_stops": 100000,
+    "station_candidates": 1000,
+    "queries": 20,
+    "index_build_seconds": 0.009792417004064191,
+    "scan_seconds": 0.0014740520498889964,
+    "indexed_seconds": 0.00020952920021954924,
+    "flat_seconds": 0.0019843000001856124,
+    "index_container_bytes": 8088928
+  }
+]
