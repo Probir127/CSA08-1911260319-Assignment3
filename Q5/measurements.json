@@ -1,0 +1,41 @@
+[
+  {
+    "n": 10000,
+    "seconds": {
+      "loop": 0.000618958001723513,
+      "comprehension": 0.0007106249977368861,
+      "functional": 0.0012862910007243045
+    },
+    "valid_count": 8356,
+    "list_shallow_bytes": 67224,
+    "generator_shallow_bytes": 224,
+    "sum_list_seconds": 4.225000157020986e-05,
+    "sum_generator_seconds": 0.0002099170014844276
+  },
+  {
+    "n": 100000,
+    "seconds": {
+      "loop": 0.006000875000609085,
+      "comprehension": 0.006938917002116796,
+      "functional": 0.012978833001398016
+    },
+    "valid_count": 83416,
+    "list_shallow_bytes": 711960,
+    "generator_shallow_bytes": 224,
+    "sum_list_seconds": 0.0003838340053334832,
+    "sum_generator_seconds": 0.002041125000687316
+  },
+  {
+    "n": 1000000,
+    "seconds": {
+      "loop": 0.06240295799943851,
+      "comprehension": 0.06947370800480712,
+      "functional": 0.13216570800432237
+    },
+    "valid_count": 834675,
+    "list_shallow_bytes": 7509944,
+    "generator_shallow_bytes": 224,
+    "sum_list_seconds": 0.004103833001863677,
+    "sum_generator_seconds": 0.02063970800372772
+  }
+]
